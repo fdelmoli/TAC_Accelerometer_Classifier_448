@@ -1,5 +1,7 @@
 numpy
 pandas
+pyarrow
+fastparquet
 matplotlib
 scikit-learn
 jupyter
