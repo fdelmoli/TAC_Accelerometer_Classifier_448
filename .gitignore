@@ -3,3 +3,5 @@ all_accelerometer_data.parquet
 .venv
 **parquet
 data/Data
+balanced_data
+features
