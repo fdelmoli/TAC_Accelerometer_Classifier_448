@@ -8,3 +8,7 @@ jupyter
 tqdm
 seaborn
 nltk
+keras
+tensorflow
+tensorflow-estimator
+numba
