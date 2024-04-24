@@ -7,7 +7,7 @@ We restructured our accelerometer data (`all_accelerometer_data_pids_13.csv`) an
 
 Last Observation Carried Forward (LOCF): Replaces missing values with the last known value. Works well for data with rising or constant trends, but can distort trends if they change direction.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/fdelmoli/TAC_Accelerometer_Classifier/blob/main/Research_Diagram.png?raw=true)
 
 ## Balancing Data
 Originally the dataset was about ~82.5% sober, what we did was then extract a subset of the data so that for each participant we had ~60% sober and ~30% intoxicated.
